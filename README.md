@@ -1,6 +1,6 @@
-# Assignment 3- Backend Recipes
+# Assignment No.3- Backend Recipes Web
 
-Server side of recipes website, in charge of the business logic of the application, manage the DB and communication to external API.
+the website's backend part is incharge of the business logic of the application, manage the DB and communication to external API.
 
 Using NODE.JS + EXPRESS.JS, AZURE SQL Database.
 
