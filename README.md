@@ -1,6 +1,6 @@
 # Assignment No.3- Backend Recipes Web
 
-the website's backend part is incharge of the business logic of the application, manage the DB and communication to external API.
+The website's backend part is incharge of the business logic of the application, manage the DB and communication to external API.
 
 Using NODE.JS + EXPRESS.JS, AZURE SQL Database.
 
