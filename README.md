@@ -1,8 +1,8 @@
 # Assignment 3- Backend Recipes
 
-Server side of recipes website
+Server side of recipes website, in charge of the business logic of the application, manage the DB and communication to external API.
 
-Using Node js 
+Using NODE.JS + EXPRESS.JS, AZURE SQL Database.
 
 
 ## Routers
@@ -26,4 +26,6 @@ The project has two main routes:
 
 
 ## API
-https://app.swaggerhub.com/apis/vaitz/Ass3_May_Hay/1.0.2/
+Server API: https://app.swaggerhub.com/apis/vaitz/Ass3_May_Hay/1.0.2/
+
+Using Spooncular API: https://spoonacular.com/food-api
