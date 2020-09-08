@@ -76,11 +76,11 @@ router.get("/myRecipesPreview", async (req, res) => {
 });
 //gets the all data of a recipe in my recipes
 router.get("/MyRecipesInfo/:id", async (req, res) => {
-  const { recipeId } = req.params;
+  const { id } = req.params;
   const user = req.user;
   const userDataRecipes = await users_logic.getMyRecipeFromUserByID(
     user[0].user_id,
-    recipeId
+    id
   );
   console.log(userDataRecipes);
   res.status(200).send(userDataRecipes);
