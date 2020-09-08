@@ -5,6 +5,8 @@ The website's backend part is incharge of the business logic of the application,
 Using NODE.JS + EXPRESS.JS, AZURE SQL Database.
 
 
+* .env file is required.
+
 ## Routers
 
 The project has two main routes:
