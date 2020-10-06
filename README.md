@@ -28,7 +28,7 @@ The project has two main routes:
 
 
 ## API
-Server API: https://app.swaggerhub.com/apis/vaitz/Ass3_May_Hay/1.0.2/
+Server Restful API: https://app.swaggerhub.com/apis/vaitz/Ass3_May_Hay/1.0.2/
 
 Using Spooncular API: https://spoonacular.com/food-api
 
